@@ -2,7 +2,7 @@
 
 This project explores, analyzes, and models which MMSA (Metropolitan or Micropolitan Statistical Areas) have the highest total at risk population of contracting COVID-19. The goal of this project is to demonstrate data manipulation on real-world, messy data, and to build models capturing much of the pattern in the data. 
 
-We dive into
+We handle missing values, deal with datatypes, generate binary features, engineer features, hypothesize predictors, establish a baseline model, tune a model, and introduce a challenger model. Find out if OLS outperforms Random Forest. 
 
 This project is based on the dataset and analysis provided by FiveThirtyEight. The dataset can also be found in this repository's `Data` folder. The original FiveThirtyEight dataset can be found here: https://github.com/fivethirtyeight/data/tree/master/covid-geography. For definitions, calculations, and assumptions, please visit the FiveThirtyEight github repository of the covid-geography dataset. 
 
