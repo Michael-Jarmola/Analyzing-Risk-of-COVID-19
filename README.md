@@ -1,6 +1,6 @@
 # Analyzing-Risk-of-COVID-19
 
-This project explores, analyzes, and models which MMSA (Metropolitan or Micropolitan Statistical Areas) have the highest total at risk population of contracting COVID-19. The goal of this project is to demonstrate data manipulation on real-world, messy data, and to build models capturing much of the pattern in the data. 
+This project explores, analyzes, and models which MMSA (Metropolitan or Micropolitan Statistical Areas) have the highest total at risk population of contracting COVID-19, and what might be possible indicators of higher at risk areas. The goal of this project is to demonstrate data manipulation on real-world, messy data, and to build models capturing much of the pattern in the data. 
 
 We handle missing values, deal with datatypes, generate binary features, engineer features, hypothesize predictors, establish a baseline model, tune a model, and introduce a challenger model. [Find out if OLS outperforms Random Forest](https://github.com/Michael-Jarmola/Analyzing-Risk-of-COVID-19/blob/master/Analyzing%20Risk%20of%20COVID-19.ipynb). 
 
